@@ -80,7 +80,7 @@ python gpu_program.py
 `squeue [-u username]` will show you the status of your jobs, and `scancel [jobid]` will cancel a job. For more options, see https://www.psc.edu/resources/bridges-2/user-guide/. 
 
 > [!NOTE]
-> To skip the queues and jump to our dedicated GPUs, add `--reservation=Tutorialcis240096p` Tues-Thurs and `--reservation=GPUcis240096p` Friday to the 'Extra Slurm Args' in OnDemand and for regular jobs in a batch script or at the command line.
+> To skip the queues and jump to our dedicated GPUs, add `--reservation=Tutorialcis240096p` Tues-Thurs and `--reservation=GPUcis240096p` Friday to the 'Extra Slurm Args' in OnDemand and for regular jobs in a batch script or at the command line. Please share the GPUs!
 
 Any questions, don't hesitate to reach out via email (gaglian2@mit.edu) or on the Summer School slack.
 
