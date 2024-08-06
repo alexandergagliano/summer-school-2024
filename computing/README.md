@@ -84,4 +84,4 @@ python gpu_program.py
 
 Any questions, don't hesitate to reach out via email (gaglian2@mit.edu) or on the Summer School slack.
 
-_Notes copied heavily from Siddharth Mishra-Sharma_
+_Notes borrowed heavily from Siddharth Mishra-Sharma!_
