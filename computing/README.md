@@ -4,7 +4,6 @@
 ## Resources overview
 
 - We have an ACCESS allocation of GPU resources on the Pittsburgh Supercomputing Center's Bridges-2 cluster through this week for tutorials and the Friday hacks.
-- We have also reserved access to Nvidia V100 GPUs just for participants during the course of this week. We have 2 dedicated GPUs Tuesday-Thursday, and 6 GPUs Friday. We are happy to request more if needed (use them or we lose them!); please let us know if this is the case.
 
 Basic workflows for using Bridges-2 are described below. For more info, see this [presentation](https://deeplearning.cs.cmu.edu/F22/document/recitation/Recitation10/Introduction%20to%20PSC.pdf) [PDF] or the comprehensive Bridges-2 User Guide: https://www.psc.edu/resources/bridges-2/user-guide/.
 
